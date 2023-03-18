@@ -61,8 +61,7 @@ src="https://img.shields.io/twitter/follow/p_nwhator?logo=twitter&style=for-the-
 
 <a href="https://github.com/nwhator" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nwhator&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-![Profile views](https://gpvc.arturio.dev/{nwhator})
-
+![GitHub Views](https://komarev.com/ghpvc/? nwhator=<nwhator>)
 
 ### Support Me
 
