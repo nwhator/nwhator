@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+page!&left=true&size=30">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+page!&left=true&size=20">
 </p>
+
 <!--
 **nwhator/nwhator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
