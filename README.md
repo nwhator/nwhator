@@ -61,6 +61,8 @@ src="https://img.shields.io/twitter/follow/p_nwhator?logo=twitter&style=for-the-
 
 <a href="https://github.com/nwhator" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nwhator&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nwhator&label=Profile%20views&color=0e75b6&style=flat" alt="nwhator" /> </p>
+
 ### Support Me
 
 <a href="https://www.buymeacoffee.com/nwhator"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
