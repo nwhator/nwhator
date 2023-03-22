@@ -28,6 +28,8 @@ Learning Software Engineering at ALX | WordPress and pHp Developer | vb.net
 * 🤝  I'm open to collaborating on Open to work in a team to build ideas 💡 I have knowledge on developing Pitch Decks and Planning
 * ⚡  I just wanna travel the world 🌍 Meet new people ☺️ Eat new dishes 🥑🥝
 
+![Profile views](https://gpvc.arturio.dev/nwhator)
+
 <a href="https://www.github.com/nwhator" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/nwhator?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/p_nwhator" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/p_nwhator?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
@@ -64,9 +66,6 @@ src="https://img.shields.io/twitter/follow/p_nwhator?logo=twitter&style=for-the-
 <a href="http://www.github.com/nwhator"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=nwhator&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/nwhator" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nwhator&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-![Profile views](https://gpvc.arturio.dev/nwhator)
-
 
 ### Support Me
 
