@@ -34,7 +34,7 @@ Learning Software Engineering at ALX | WordPress and pHp Developer | vb.net
 
 <a href="https://www.github.com/nwhator" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/nwhator?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-[![Twitter followers](https://img.shields.io/twitter/follow/p_nwhator?label=Twitter%20Followers&style=social)](https://twitter.com/p_nwhator)
+![Twitter Follow](https://img.shields.io/twitter/follow/<p_nwhator>?style=social)
 
 ### Skills
 
