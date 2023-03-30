@@ -29,6 +29,8 @@ Learning Software Engineering at ALX | WordPress and pHp Developer | vb.net
 * ⚡  I just wanna travel the world 🌍 Meet new people ☺️ Eat new dishes 🥑🥝
 
 ![Profile views](https://gpvc.arturio.dev/nwhator)
+[![Twitter Follow](https://img.shields.io/twitter/follow/p_nwhator?style=social)](https://twitter.com/p_nwhator)
+[![LinkedIn Follow](https://img.shields.io/badge/dynamic/json?color=blue&label=LinkedIn&query=$.followersCount&url=https://www.linkedin.com/in/nwhator)](https://www.linkedin.com/in/nwhator)
 
 <a href="https://www.github.com/nwhator" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/nwhator?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/p_nwhator" target="_blank" rel="noreferrer"><img
