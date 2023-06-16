@@ -28,9 +28,7 @@ Learning Software Engineering at ALX | WordPress and pHp Developer | vb.net
 * 🤝  I'm open to collaborating on Open to work in a team to build ideas 💡 I have knowledge on developing Pitch Decks and Planning
 * ⚡  I just wanna travel the world 🌍 Meet new people ☺️ Eat new dishes 🥑🥝
 
-![Profile views](https://gpvc.arturio.dev/nwhator)
 [![Twitter Follow](https://img.shields.io/twitter/follow/p_nwhator?style=social)](https://twitter.com/p_nwhator)
-[![LinkedIn Follow](https://img.shields.io/badge/dynamic/json?color=blue&label=LinkedIn&query=$.followersCount&url=https://www.linkedin.com/in/nwhator)](https://www.linkedin.com/in/nwhator)
 
 <a href="https://www.github.com/nwhator" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/nwhator?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917"/></a>
@@ -69,3 +67,16 @@ src="https://img.shields.io/github/followers/nwhator?logo=github&style=for-the-b
 ### Support Me
 
 <a href="https://www.buymeacoffee.com/nwhator"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+
+### ✍️ Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 😂 Random Dev Meme
+
+<img src="https://random-memer.herokuapp.com/" width="512px"/>
+
+---
+[![](https://visitcount.itsvg.in/api?id=nwhator&label=Profile%20Views&color=0&icon=5&pretty=true)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
