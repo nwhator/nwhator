@@ -19,12 +19,12 @@ Here are some ideas to get you started:
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Promise Nwhator
 =======================================================================================================================================
 
-Learning Software Engineering at ALX | WordPress and pHp Developer | vb.net
----------------------------------------------------------------------------
+Learning Software Engineering at ALX | WordPress and pHp Developer
+------------------------------------------------------------------
 
 * 🌍  I'm based in Osun, Nigeria
 * ✉️  You can contact me at [nwhator@gmail.com](mailto:nwhator@gmail.com)
-* 🧠  I'm learning C
+* 🧠  I'm learning C & Python
 * 🤝  I'm open to collaborating on Open to work in a team to build ideas 💡 I have knowledge on developing Pitch Decks and Planning
 * ⚡  I just wanna travel the world 🌍 Meet new people ☺️ Eat new dishes 🥑🥝
 
