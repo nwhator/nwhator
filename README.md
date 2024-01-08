@@ -3,6 +3,10 @@
 # 💫 About Me:
 🌍  I'm based in Osun, Nigeria<br>🧠  I'm learning C & Python<br>🤝  I'm open to collaborating on Open to work in a team to build ideas 💡 I have knowledge on developing Pitch Decks and Planning<br>⚡  I just wanna travel the world 🌍 Meet new people ☺️ Eat new dishes 🥑🥝
 
+### 📱 Latest Tweets
+
+<!-- TWITTER:START -->
+<!-- TWITTER:END -->
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pnwhator) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nwhator) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@nwhator) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/p_nwhator) 
