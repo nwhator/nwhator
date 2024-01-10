@@ -23,7 +23,7 @@ Name | Badges
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=nwhator&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=nwhator&theme=chartreuse-dark&hide_border=true)<br/>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nwhator&theme=chartreuse-dark&border_radius=10)](https://git.io/streak-stats)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nwhator&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
