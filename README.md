@@ -5,11 +5,6 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-### 📱 Latest Tweets
-
-<!-- TWITTER:START -->
-<!-- TWITTER:END -->
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pnwhator) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nwhator) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@nwhator) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/p_nwhator) 
 
@@ -41,10 +36,6 @@ Name | Badges
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=8622sklz5dtcq3drac8vjgday&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=false)](https://spotify-github-profile.vercel.app/api/view?uid=8622sklz5dtcq3drac8vjgday&redirect=true)
 
 ---
-
-<p align="left">
-  <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=hy0a3n49hy8e8t7n5kxd28rh4&cover_image=true&theme=novatorem&show_offline=false&background_color=0d0c0c&interchange=true&bar_color=5bc658&bar_color_cover=false">
-</p>
 
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
