@@ -34,6 +34,28 @@ Name | Badges
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
+---
+
+### 🎵 Current Mood:
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=8622sklz5dtcq3drac8vjgday&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=false)](https://spotify-github-profile.vercel.app/api/view?uid=8622sklz5dtcq3drac8vjgday&redirect=true)
+
+<div align="center">
+<div id="Quine Stats">
+  <a href="https://quine.sh?utm_source=widgets&utm_campaign=JayOaks">
+    <img src="https://stats.quine.sh/nwhator/github?theme=dark" alt="GitHub Stats"/>
+  </a>
+  <a href="https://quine.sh?utm_source=widgets&utm_campaign=JayOaks">
+    <img src="https://stats.quine.sh/nwhator/dependencies?theme=dark" alt="GitHub Dependencies"/>
+  </a>
+</div>
+
+---
+
+<p align="left">
+  <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=hy0a3n49hy8e8t7n5kxd28rh4&cover_image=true&theme=novatorem&show_offline=false&background_color=0d0c0c&interchange=true&bar_color=5bc658&bar_color_cover=false">
+</p>
+
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
