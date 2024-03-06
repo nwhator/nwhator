@@ -40,16 +40,6 @@ Name | Badges
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=8622sklz5dtcq3drac8vjgday&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=false)](https://spotify-github-profile.vercel.app/api/view?uid=8622sklz5dtcq3drac8vjgday&redirect=true)
 
-<div align="center">
-<div id="Quine Stats">
-  <a href="https://quine.sh?utm_source=widgets&utm_campaign=JayOaks">
-    <img src="https://stats.quine.sh/nwhator/github?theme=dark" alt="GitHub Stats"/>
-  </a>
-  <a href="https://quine.sh?utm_source=widgets&utm_campaign=JayOaks">
-    <img src="https://stats.quine.sh/nwhator/dependencies?theme=dark" alt="GitHub Dependencies"/>
-  </a>
-</div>
-
 ---
 
 <p align="left">
