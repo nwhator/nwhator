@@ -11,7 +11,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🎉 Certifications 
-[Python (Basic)](https://www.hackerrank.com/certificates/iframe/2bc1aaebc0b9)
+[Python (Basic)](https://www.hackerrank.com/certificates/iframe/2bc1aaebc0b9) |
 [Problem Solving (Basic)](https://www.hackerrank.com/certificates/iframe/818c38c48841)
 
 ## 💻 Tech Stack
@@ -37,7 +37,7 @@ Name | Badges
 
 ### 🎵 Current Mood:
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=8622sklz5dtcq3drac8vjgday&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=false)](https://spotify-github-profile.vercel.app/api/view?uid=8622sklz5dtcq3drac8vjgday&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=8622sklz5dtcq3drac8vjgday&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=8622sklz5dtcq3drac8vjgday&redirect=true)
 
 ---
 
