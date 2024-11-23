@@ -10,8 +10,9 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🎉 Certifications
-[View my Hackerrank Certificate](https://www.hackerrank.com/certificates/iframe/2bc1aaebc0b9)
+## 🎉 Certifications 
+[Python (Basic)](https://www.hackerrank.com/certificates/iframe/2bc1aaebc0b9)
+[Problem Solving (Basic)](https://www.hackerrank.com/certificates/iframe/818c38c48841)
 
 ## 💻 Tech Stack
 
